@@ -1,10 +1,6 @@
 # projeto
 sobrenaturalflix
 
-GABRIEL FERREIRA DA ROSA <rosa.gabriel03@escola.pr.gov.br>
-07:49 (há 24 minutos)
-para mim
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
